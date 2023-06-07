@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "checkJs": false,
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./src/*"],
+      "@components/*": ["src/components/*"],
+      "@ui/*": ["src/ui/*"]
+    }
+  },
+  "exclude": ["node_modules", "dist"]
+}
