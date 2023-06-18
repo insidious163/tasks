@@ -1,6 +1,6 @@
 import { RadioGroup } from "@ui/RadioGroup/RadioGroup.jsx";
 import { DateTimePicker } from "@ui/DateTimePicker/DateTimePicker.jsx";
-import { TIMEFRAMES } from "@components/Task/Constants.js";
+import { TIMEFRAMES } from "@/Constants.js";
 
 import styles from "./TaskTimeframe.module.css";
 

@@ -2,7 +2,7 @@ import { useState } from "react";
 import { TaskTimeframe } from "@components/Task/TaskTimeframe/TaskTimeframe.jsx";
 import { DropdownPicker } from "@ui/DropdownPicker/DropdownPicker.jsx";
 import { TextPicker } from "@ui/TextPicker/TextPicker.jsx";
-import { TIMEFRAMES } from "@components/Task/Constants.js";
+import { TIMEFRAMES } from "@/Constants.js";
 
 import styles from "./Task.module.css";
 
